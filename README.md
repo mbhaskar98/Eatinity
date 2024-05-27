@@ -1,4 +1,4 @@
-# Eatinity
+# Event Hosting App
 
 An event hosting and meetup application.
 
